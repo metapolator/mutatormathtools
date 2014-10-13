@@ -1,0 +1,9 @@
+
+
+@GDEF_Simple = [\aadeva \adeva \ashortdeva ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

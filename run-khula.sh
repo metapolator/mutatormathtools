@@ -4,8 +4,8 @@ SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 rm -rf "$SCRIPTDIR/out.ufo"
 
 ./simpleblend.py \
-    `pwd`/fonts/Merriweather-Bold-Subset-nop.ufo \
-    `pwd`/fonts/Merriweather-Regular-Subset-nop.ufo  \
+    `pwd`/fonts/Khula-Light-090x-456.ufo \
+    `pwd`/fonts/Khula-ExtraBold-090x-456.ufo \
     weight 0.5 \
 && xmllint --format simpleblend.designspace
 
