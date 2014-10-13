@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>aadeva</key>
+    <string>aadeva.glif</string>
+    <key>adeva</key>
+    <string>adeva.glif</string>
+    <key>ashortdeva</key>
+    <string>ashortdeva.glif</string>
+  </dict>
+</plist>
