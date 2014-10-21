@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon.deva" format="1">
+  <advance width="485.5"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="111.5" y="109.5" type="curve" smooth="yes"/>
+      <point x="111.5" y="194.5"/>
+      <point x="157.0" y="240.0"/>
+      <point x="243.5" y="240.0" type="curve" smooth="yes"/>
+      <point x="327.5" y="240.0"/>
+      <point x="373.0" y="194.5"/>
+      <point x="373.0" y="109.5" type="curve" smooth="yes"/>
+      <point x="373.0" y="26.0"/>
+      <point x="325.5" y="-20.5"/>
+      <point x="243.5" y="-20.5" type="curve" smooth="yes"/>
+      <point x="160.0" y="-20.5"/>
+      <point x="111.5" y="25.5"/>
+    </contour>
+    <contour>
+      <point x="111.5" y="867.0" type="curve" smooth="yes"/>
+      <point x="111.5" y="951.0"/>
+      <point x="157.5" y="997.0"/>
+      <point x="243.5" y="997.0" type="curve" smooth="yes"/>
+      <point x="327.5" y="997.0"/>
+      <point x="373.0" y="951.0"/>
+      <point x="373.0" y="867.0" type="curve" smooth="yes"/>
+      <point x="373.0" y="781.0"/>
+      <point x="322.0" y="736.5"/>
+      <point x="243.5" y="736.5" type="curve" smooth="yes"/>
+      <point x="161.5" y="736.5"/>
+      <point x="111.5" y="781.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>438</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>438</integer>
+        </dict>
+        <key>original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>438</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8766</real>
+        <real>1.0</real>
+        <real>0.9893</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

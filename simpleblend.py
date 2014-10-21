@@ -28,6 +28,10 @@ if __name__ == "__main__":
     axisName = sys.argv[3]
     instanceLocation = float(sys.argv[4])
 
+    exportUFOPath = "out.ufo"
+    if len(sys.argv) > 4:
+        exportUFOPath = sys.argv[5]
+
     print "creating an instance on axis " + axisName + " that is " \
         + str(instanceLocation) + " between your masters"
     print " first master: " + masterA
@@ -42,7 +46,7 @@ if __name__ == "__main__":
 
     d[axisName] = instanceLocation
     dw.startInstance( "interpolated", mmlocation.Location(d), 
-                      "familyName", "styleName", "out.ufo" )
+                      "familyName", "styleName", exportUFOPath )
 #    dw.writeGlyph("o");
     dw.endInstance()
     dw.save()

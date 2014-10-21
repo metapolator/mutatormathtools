@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde.deva" format="1">
+  <advance width="1047.5"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="287.5" y="626.0" type="curve" smooth="yes"/>
+      <point x="224.5" y="626.0"/>
+      <point x="152.5" y="590.0"/>
+      <point x="82.5" y="517.5" type="curve"/>
+      <point x="82.5" y="686.5" type="line"/>
+      <point x="146.0" y="752.0"/>
+      <point x="220.5" y="784.5"/>
+      <point x="306.0" y="784.5" type="curve" smooth="yes"/>
+      <point x="344.5" y="784.5"/>
+      <point x="381.0" y="780.5"/>
+      <point x="416.0" y="772.5" type="curve" smooth="yes"/>
+      <point x="451.0" y="764.5"/>
+      <point x="496.5" y="748.5"/>
+      <point x="553.5" y="724.5" type="curve"/>
+      <point x="630.5" y="690.5"/>
+      <point x="699.0" y="673.5"/>
+      <point x="760.0" y="673.5" type="curve" smooth="yes"/>
+      <point x="823.5" y="673.5"/>
+      <point x="893.5" y="712.0"/>
+      <point x="964.5" y="784.0" type="curve"/>
+      <point x="964.5" y="614.5" type="line"/>
+      <point x="904.5" y="552.5"/>
+      <point x="832.0" y="514.5"/>
+      <point x="740.5" y="514.5" type="curve" smooth="yes"/>
+      <point x="684.5" y="514.5"/>
+      <point x="624.0" y="527.5"/>
+      <point x="558.5" y="553.5" type="curve" smooth="yes"/>
+      <point x="503.0" y="575.0"/>
+      <point x="448.0" y="591.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1052</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1052</integer>
+        </dict>
+        <key>original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciitilde.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1052</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8766</real>
+        <real>1.0</real>
+        <real>0.9893</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
