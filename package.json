@@ -1,0 +1,15 @@
+{
+  "name": "metapolator-commandline-tests",
+  "version": "0.0.0",
+  "description": "tests using command line metapolator tool",
+  "main": "(none)",
+  "repository": "",
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {},
+  "dependencies": {
+      "commander": "2.4.0",
+      "rimraf": "2.2.8",
+      "execSync": "1.0.2"
+  }
+}
