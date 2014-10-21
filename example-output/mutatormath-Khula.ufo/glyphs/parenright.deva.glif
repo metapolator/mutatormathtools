@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.deva" format="1">
+  <advance width="581.0"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="511.5" y="514.5" type="curve" smooth="yes"/>
+      <point x="511.5" y="186.5"/>
+      <point x="420.0" y="-94.5"/>
+      <point x="250.0" y="-292.0" type="curve"/>
+      <point x="54.0" y="-292.0" type="line"/>
+      <point x="183.0" y="-119.0"/>
+      <point x="257.5" y="75.5"/>
+      <point x="277.5" y="291.5" type="curve" smooth="yes"/>
+      <point x="297.5" y="516.5"/>
+      <point x="258.5" y="733.5"/>
+      <point x="170.0" y="921.0" type="curve"/>
+      <point x="170.0" y="1079.5"/>
+      <point x="181.0" y="1226.0"/>
+      <point x="103.0" y="1334.5" type="curve"/>
+      <point x="191.0" y="1229.0"/>
+      <point x="385.0" y="1087.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenright.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>501</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenright.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>501</integer>
+        </dict>
+        <key>original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenright.deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>501</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8766</real>
+        <real>1.0</real>
+        <real>0.9893</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

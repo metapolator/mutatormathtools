@@ -45,3 +45,24 @@ independent of the MutatorMath project from RTFM & RTFS. (Constructive)
 Comments, especially constructive criticism, feedback, and good pull
 requests very welcome!
 
+---
+
+Use the metapolator-interpolate.js command to run metapolator and
+generate output. The script requires two font names and an output, and
+by default generates an instance 50% between the two masters. You can
+select masters just by name if they are in the ./fonts top level
+directory of mutatormathtools. So the following command should be
+valid:
+
+$ ./metapolator-interpolate.js       \
+    -a Khula-Light-090x-456.ufo      \
+    -b Khula-ExtraBold-090x-456.ufo  \
+    -o /tmp/foo.ufo
+
+A master script ./update-example-output.sh will update all the example
+output that is contained in your example-output subdirectory. Note
+that the example-output directory is itself under git control, so you
+probably want to make a throw away branch before running
+update-example-output.sh.
+
+

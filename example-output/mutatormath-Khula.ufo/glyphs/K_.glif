@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1168.5"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="1168.5" y="0.0" type="line"/>
+      <point x="911.5" y="0.0" type="line"/>
+      <point x="529.5" y="599.0" type="line"/>
+      <point x="388.5" y="490.0" type="line"/>
+      <point x="388.5" y="0.0" type="line"/>
+      <point x="164.0" y="0.0" type="line"/>
+      <point x="164.0" y="1316.0" type="line"/>
+      <point x="388.5" y="1316.0" type="line"/>
+      <point x="388.5" y="688.0" type="line"/>
+      <point x="397.5" y="705.5"/>
+      <point x="488.5" y="807.0"/>
+      <point x="516.0" y="845.5" type="curve"/>
+      <point x="912.5" y="1316.0" type="line"/>
+      <point x="1165.0" y="1316.0" type="line"/>
+      <point x="688.0" y="743.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1071</integer>
+        </dict>
+        <key>layer2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1071</integer>
+        </dict>
+        <key>original</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1071</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8766</real>
+        <real>1.0</real>
+        <real>0.9893</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
